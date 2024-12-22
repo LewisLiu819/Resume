@@ -67,11 +67,13 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        percent: 90
       - name: C++
+        percent: 90
+      - name: Python
         percent: 85
       - name: Competition Algorithms
+        percent: 80
+      - name: Deep Learning
         percent: 80
   - name: Leadership
     items:
@@ -100,17 +102,17 @@ awards:
 
 projects:
   - title: Emotion Classifier Model Development
-    date: 2024
+    date: '2024 - Present'
     summary: |
       Fine-tuned a BERT-based model achieving high accuracy and integrated LIME for explainable AI. [GitHub Repository](https://github.com/LewisLiu819/emotion).
   - title: ACSL Team Leadership
-    date: 2024 
+    date: '2024 - Present' 
     summary: |
       Led a team in the American Computer Science League, fostering collaboration and problem-solving skills.
 
 extracurricular:
   - title: Visiting Student
-    date: 3rd Grade
+    date: '3rd Grade'
     summary: |
       Studied in Illinois, USA, gaining cross-cultural communication skills.
 ---
