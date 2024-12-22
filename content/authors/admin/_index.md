@@ -54,13 +54,13 @@ work:
   - position: Research Assistant
     company_name: Xi'an Jiaotong University
     date_start: 2022-01-01
-    date_end: Present
+    date_end: ""
     summary: |
       Conducted research under Prof. Ren Pengju in artificial intelligence, contributing to projects on explainable AI.
   - position: Founder & Teacher
     company_name: COMPSCI 0.10
     date_start: 2024-01-01
-    date_end: Present
+    date_end: ""
     summary: |
       Designed an introductory computer science curriculum for elementary students. Taught over 50 students and expanded the course to digital platforms.
 
@@ -104,7 +104,7 @@ projects:
     summary: |
       Fine-tuned a BERT-based model achieving high accuracy and integrated LIME for explainable AI. [GitHub Repository](https://github.com/LewisLiu819/emotion).
   - title: ACSL Team Leadership
-    date: 2024–Present
+    date: 2024 
     summary: |
       Led a team in the American Computer Science League, fostering collaboration and problem-solving skills.
 
