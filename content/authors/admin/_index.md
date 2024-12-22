@@ -95,7 +95,7 @@ awards:
     summary: |
       Scored 126 (A) and 132 (B), Global Top 5%, qualified for AIME.
   - title: National 3rd Prize
-    date: '5th Grade'
+    date: '2018-01-01'
     awarder: Lan Qiao Bei
     summary: |
       Recognized for excellence in computer science and informatics.
