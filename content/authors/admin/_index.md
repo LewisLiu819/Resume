@@ -29,8 +29,6 @@ profiles:
     url: https://github.com/LewisLiu819/
   - icon: brands/instagram
     url: https://www.instagram.com/pzliu_0819/
-  - icon: weixin
-    url: lewisliu365
 
 education:
   - area: High School Education (Olympiad in Informatics)
