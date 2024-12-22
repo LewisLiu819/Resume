@@ -34,7 +34,7 @@ education:
   - area: High School Education (Olympiad in Informatics)
     institution: Middle School Attached to Northwestern Polytechnical University
     date_start: 2023-01-01
-    date_end: "Present"
+    date_end: ""
     summary: |
       Specialized in competitive programming and informatics. Scored 664/700 in the Zhong Kao high school entrance exam.
   - area: Middle School
