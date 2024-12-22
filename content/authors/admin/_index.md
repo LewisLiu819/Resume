@@ -90,7 +90,7 @@ languages:
 
 awards:
   - title: AMC 12
-    date: '2024'
+    date: '2024-11-07'
     awarder: Mathematical Association of America
     summary: |
       Scored 126 (A) and 132 (B), Global Top 5%, qualified for AIME.
